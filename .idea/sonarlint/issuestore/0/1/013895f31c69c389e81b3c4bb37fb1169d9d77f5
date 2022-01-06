@@ -1,0 +1,8 @@
+
+g
+java:S1128"ERemove this unused import 'StarSharp.userinterface.StarSharpMapping'.(¸ª¯‚øÿÿÿÿ8·ˆ‰Úâ/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ßú˜è
+U
+java:S1128"3Remove this unused import 'cucumber.api.java.es.E'.(­¨óúÿÿÿÿ8¯ß­ââ/
+e
+java:S1128"CRemove this unused import 'net.serenitybdd.screenplay.Performable'.(ğ”„Îüÿÿÿÿ8»ÊòÓâ/
